@@ -1,8 +1,12 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-    /* Header Content */
+    /*Header Content*/
+    .header-right {
+      display: block;
+    }
+    
     .menu-icon {
-        display: block;
+      display: none;
     }
     
     /*Banner Content*/
