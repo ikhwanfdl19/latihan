@@ -1,5 +1,10 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
+    /* Header Content */
+    .menu-icon {
+        display: block;
+    }
+    
     /*Banner Content*/
     .top-wrapper h1 {
       font-size: 32px;
